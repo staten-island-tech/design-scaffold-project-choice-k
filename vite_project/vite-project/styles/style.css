@@ -1,0 +1,21 @@
+@import url("./roots.css");
+
+.buttons {
+ border-radius: 50%;
+  background-color: var(--fourth);
+  font: 3rem sans-serif;
+  color:var(--third);
+  padding: 3rem;
+  width: 30rem;
+}
+
+body{
+  background-color: var(--primary);
+}
+
+.screen {
+  background-color: #74977A;
+  font: 30rem sans-serif;
+  color: var(--third);
+  border-radius: 20%;
+}
