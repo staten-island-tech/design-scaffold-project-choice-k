@@ -5,6 +5,8 @@
   "main": ".eleventy.js",
   "scripts": {
     "start": "eleventy --serve",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
     "build": "eleventy"
   },
   "repository": {
