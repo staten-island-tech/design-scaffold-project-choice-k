@@ -1,3 +1,4 @@
+/*
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy9("scr/styles");
   eleventyConfig.addPassthroughCopy9("scr/md");
@@ -10,3 +11,4 @@ module.exports = function (eleventyConfig) {
     },
   };
 };
+*/
