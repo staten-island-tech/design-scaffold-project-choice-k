@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/staten-island-tech/design-scaffold-project-choice-k/issues"
   },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+  "autoprefixer": "^10.4.2",
+  "postcss": "^8.4.8",
+  "tailwindcss": "^3.0.23",
   "homepage": "https://github.com/staten-island-tech/design-scaffold-project-choice-k#readme"
+  },
+  "dependencies": {
+    "nunjucks-to-html": "^1.1.0"
+  }
 }
