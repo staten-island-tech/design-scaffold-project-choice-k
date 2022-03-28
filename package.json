@@ -28,5 +28,7 @@
   },
   "dependencies": {
     "nunjucks-to-html": "^1.1.0"
-  }
+  },
+  "homepage": "https://github.com/staten-island-tech/design-scaffold-project-choice-k#readme"
 }
+
